@@ -1,0 +1,99 @@
+header{
+	background: #004F70;
+	
+}
+.Logo img{
+	height: 70px;
+}
+.Menu img{
+	padding: 20px;
+}
+.Search img{
+	padding: 20px;
+}
+h1{
+	font-family: Perpetua;
+	font-size: 1.5rem;
+	color: #004F70;
+	text-align: center;
+}
+.hero{
+	background: url(../img/hero-home-david.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	height: calc(100vh - 72px);
+}
+.hero-tickets{
+	background: #004F70;
+	padding: 2rem;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.hero-tickets p{
+	font-family: museo-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18px;
+	color: #FFFFFF;
+	background: #004F70;
+	padding: #004F70;
+	border: 1px;
+	border-color: #FFFFFF;
+
+	
+}
+.hero-tickets button{
+	font-family: museo-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18px;
+	color: #FFFFFF;
+	background: #004F70;
+	border: 1px solid #FFFFFF;
+	padding: 1rem;
+}
+h2{
+	font-family: Perpetua;
+	font-size: 2rem;
+	color: #707070;
+	text-align: center;
+}
+footer{
+	background: #F2EDEB;
+	text-align: center;
+}
+.socials{
+	padding: 15px;
+}
+.foot{
+	padding: 50px;
+}
+#main-menu nav {
+ 	display: flex;
+ 	height: 100%;
+ 	background: #F2EDEB;
+ 	text-align: center;
+
+}
+#main-menu ul {
+	margin: auto 0;
+ 	padding: 0;
+	list-style: none;
+	font-family: museo-sans, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 18px;
+	color: #000000;
+	line-height: 3;
+	background-color: #F2EDEB;
+
+}
+#main-menu li{
+	text-align: center;
+
+}
+#main-menu a{
+	color: #000000;
+}
+
